@@ -13,7 +13,7 @@
         "price": "Rp. 2.500.000.000 / Year"
     },
     {
-        "id": 1,
+        "id": 2,
         "image": "https://example.com/images/house_main.jpg",
         "name": "Dreamsville House",
         "address": "Jl. Sultan Iskandar Muda, Jakarta selatan",
@@ -26,7 +26,7 @@
         "price": "Rp. 2.500.000.000 / Year"
     },
     {
-        "id": 1,
+        "id": 3,
         "image": "https://example.com/images/house_main.jpg",
         "name": "Dreamsville House",
         "address": "Jl. Sultan Iskandar Muda, Jakarta selatan",
