@@ -14,22 +14,22 @@
         "id": 2,
         "name": "Beautifull House",
         "address": "Erofeeva street, home 12",
-        "bedrooms": 1,
-        "bathrooms": 99,
-        "description": "This charming Beautifull House is nestled in the scenic area of Bogor. It features 1 comfortable bedrooms, 99 modern bathrooms, and a warm, inviting atmosphere.",
-        "ownerName": "Ksenya Nikitina",
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "description": "This charming Beautifull House is nestled in the scenic area of Bogor. It features 5 comfortable bedrooms, 2 modern bathrooms, and a warm, inviting atmosphere.",
+        "ownerName": "The Hollies House",
         "ownerRole": "Owner",
-        "price": "EUR. 20.500.000 / Year"
+        "price": "Rp. 2.000.000.000 / Year"
     },
     {
         "id": 3,
         "name": "Perfect House",
         "address": "Beacker street, home 222B",
-        "bedrooms": 3,
-        "bathrooms": 3,
-        "description": "This elegant Perfect House is located in the bustling heart of Jakarta. It boasts 3 stylish bedrooms, 3 contemporary bathrooms, and breathtaking city views.",
-        "ownerName": "Doctor Watson",
+        "bedrooms": 6,
+        "bathrooms": 4,
+        "description": "This elegant Perfect House is located in the bustling heart of Jakarta. It boasts 6 stylish bedrooms, 4 contemporary bathrooms, and breathtaking city views.",
+        "ownerName": "Orchad House",
         "ownerRole": "Owner",
-        "price": "USD. 2.000.000 / Year"
+        "price": "Rp. 2.500.000.000 / Year"
     }
 ]
