@@ -1,20 +1,41 @@
 [
     {
-        "doctorName": "Dr. Imran Syahir",
-        "doctorRole": "General Doctor",
-        "date": "Sunday, 12 June",
-        "time": "11:00 - 12:00 AM"
+        "id": 1,
+        "image": "https://example.com/images/house_main.jpg",
+        "name": "Dreamsville House",
+        "address": "Jl. Sultan Iskandar Muda, Jakarta selatan",
+        "bedrooms": 6,
+        "bathrooms": 4,
+        "description": "This luxurious Dreamsville House is located in the heart of Jakarta. It features 6 spacious bedrooms, 4 modern bathrooms, and a stunning interior design.",
+        "ownerName": "Garry Allen",
+        "ownerRole": "Owner",
+        "ownerAvatar": "https://example.com/images/avatar_garry.jpg",,
+        "price": "Rp. 2.500.000.000 / Year"
     },
     {
-        "doctorName": "Dr. Van Darkholme",
-        "doctorRole": "Cardiologist",
-        "date": "Monday, 13 June",
-        "time": "1:00 - 2:00 PM"
+        "id": 1,
+        "image": "https://example.com/images/house_main.jpg",
+        "name": "Dreamsville House",
+        "address": "Jl. Sultan Iskandar Muda, Jakarta selatan",
+        "bedrooms": 6,
+        "bathrooms": 4,
+        "description": "This luxurious Dreamsville House is located in the heart of Jakarta. It features 6 spacious bedrooms, 4 modern bathrooms, and a stunning interior design.",
+        "ownerName": "Garry Allen",
+        "ownerRole": "Owner",
+        "ownerAvatar": "https://example.com/images/avatar_garry.jpg",,
+        "price": "Rp. 2.500.000.000 / Year"
     },
     {
-        "doctorName": "Dr. Anna Gog",
-        "doctorRole": "Psychiatrist",
-        "date": "Tuesday, 14 June",
-        "time": "3:00 - 4:00 PM"
+        "id": 1,
+        "image": "https://example.com/images/house_main.jpg",
+        "name": "Dreamsville House",
+        "address": "Jl. Sultan Iskandar Muda, Jakarta selatan",
+        "bedrooms": 6,
+        "bathrooms": 4,
+        "description": "This luxurious Dreamsville House is located in the heart of Jakarta. It features 6 spacious bedrooms, 4 modern bathrooms, and a stunning interior design.",
+        "ownerName": "Garry Allen",
+        "ownerRole": "Owner",
+        "ownerAvatar": "https://example.com/images/avatar_garry.jpg",,
+        "price": "Rp. 2.500.000.000 / Year"
     }
 ]
