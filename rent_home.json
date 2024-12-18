@@ -6,8 +6,6 @@
         "bedrooms": 6,
         "bathrooms": 4,
         "description": "This luxurious Dreamsville House is located in the heart of Jakarta. It features 6 spacious bedrooms, 4 modern bathrooms, and a stunning interior design.",
-        "ownerName": "Garry Allen",
-        "ownerRole": "Owner",
         "price": "Rp. 2.500.000.000 / Year"
     },
     {
@@ -17,8 +15,6 @@
         "bedrooms": 5,
         "bathrooms": 2,
         "description": "Beautifull House is situated in the vibrant heart of Jakarta. It offers 5 bedrooms, 2 bathrooms, and fantastic city views.",
-        "ownerName": "Ksusha Novicova",
-        "ownerRole": "Owner",
         "price": "Rp. 2.000.000.000 / Year"
     },
     {
@@ -28,8 +24,6 @@
         "bedrooms": 6,
         "bathrooms": 4,
         "description": "This charming Perfect House is located in the beautiful area of Bogor. It features 6 bedrooms, 4 bathrooms, and a cozy atmosphere.",
-        "ownerName": "Doctor Swift",
-        "ownerRole": "Owner",
         "price": "Rp. 2.500.000.000 / Year"
     }
 ]
